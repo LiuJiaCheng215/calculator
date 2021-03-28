@@ -1,0 +1,6 @@
+D:\课下案例\ConsoleExample4\ConsoleExample4\bin\Debug\ConsoleExample4.exe.config
+D:\课下案例\ConsoleExample4\ConsoleExample4\bin\Debug\ConsoleExample4.exe
+D:\课下案例\ConsoleExample4\ConsoleExample4\bin\Debug\ConsoleExample4.pdb
+D:\课下案例\ConsoleExample4\ConsoleExample4\obj\Debug\ConsoleExample4.csprojResolveAssemblyReference.cache
+D:\课下案例\ConsoleExample4\ConsoleExample4\obj\Debug\ConsoleExample4.exe
+D:\课下案例\ConsoleExample4\ConsoleExample4\obj\Debug\ConsoleExample4.pdb
